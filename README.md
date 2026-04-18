@@ -1,10 +1,10 @@
-# FTShare All-in-One
+# All-in-One
 
 全市场金融数据统一技能集 —— 适用于 Claude Code / ClawHub 等 AI 编程助手。
 
 ## 数据来源
 
-**非凸科技** ([market.ft.tech](https://market.ft.tech))
+**非凸科技** 
 
 ## 功能概览
 
